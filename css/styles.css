@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+/* Begin header */
+.form-header {
+	text-align: center;
+}
+
+.form-header h1{
+	color: antiquewhite;
+	background-color: #121212;
+}
+
+/* END header */
